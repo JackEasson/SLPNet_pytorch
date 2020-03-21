@@ -2,7 +2,7 @@
 SLPNet: Towards End-to-End Car License Plates Detection and Recognition Using Lightweight CNN
 
 ## Background
-This is a model for Automatic License Plate Detection and Recognition, which is trained on CCPD. Hence, it only supports Chinese Blue LPs.
+This is a model for Automatic License Plate Detection and Recognition, which is trained on CCPD. Hence, it only supports for Chinese Blue LPs now.
 
 ## Install
 Now we just provide a demonstration for fun. But it's the best model we have trained and can show our SLPNet's performance.<br>
