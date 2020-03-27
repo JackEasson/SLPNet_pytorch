@@ -21,4 +21,4 @@ We show some recognition results based on images from CCPD and shot personally.<
 ![picture2](https://github.com/JackEasson/SLPNet_pytorch/tree/master/example_pictures/example4.PNG)
 
 ## Others
-The entire codes include train.py and test.py will be available soon.
+The entire codes including train.py and test.py will be available soon.
