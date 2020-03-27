@@ -17,7 +17,7 @@ PyQt5<br>
 
 ## Results
 We show some recognition results based on images from CCPD and shot personally.<br>
-![pic1](https://github.com/JackEasson/SLPNet_pytorch/edit/master/example_pictures/example1.PNG)
+![pic1](https://github.com/JackEasson/SLPNet_pytorch/master/example_pictures/example3.PNG)
 
 
 ## Others
