@@ -22,3 +22,7 @@ We show some recognition results based on images from CCPD and shot personally.<
 
 ## Others
 The entire codes including train.py and test.py will be available soon.
+
+## Notice
+We open our SLPNet in other platform now. it's a stand-alone program on Windows system and you can just run it in a PC without pytorch or opencv! Here is the URL: 百度网盘 链接：https://pan.baidu.com/s/13Cfb-LOhfa9ZrQnVBotQ9w 提取码：pp2n
+For successful operation, all the path (whether save path or input images path) of this project should't contain Chinese characters!
