@@ -1,0 +1,1 @@
+Namespace(acc_threshold=0.85, batch_size=22, cuda=True, epochs_save=10, grad_accumulation_steps=4, learning_rate=0.005, num_epochs=70, num_workers=4, pretrained=False, reg_epochs=None, resume=True, savedir='ssnet_last_0306', state=None, steps_interval=100)
