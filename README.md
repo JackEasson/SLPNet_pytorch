@@ -20,7 +20,7 @@ First, you should put your license plate data in 'data' folder, including three 
 It represents 8 corners of a LP and the number. If there is more than one LP, then write the information in next line.<br>
 The easiest usage:<br>
 For train: `python train.py --savedir SLPNetweight`<br>
-For test: `pytthon test_demo.py`<br>
+For test: `python test_demo.py`<br>
 More arguments can be adjust in the train_config.py, train.py and test_demo.py.
 
 ## Environment
