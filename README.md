@@ -42,4 +42,4 @@ We open our SLPNet in other platform now. It's a stand-alone program on Windows 
 For successful operation, all the path (whether save path or input images path) of this project shouldn't contain Chinese characters!
 
 ## Other
-Our paper has acceted by PRCV2020, we will open it soon!
+Our paper has acceted by PRCV2020, we have opened it now!
