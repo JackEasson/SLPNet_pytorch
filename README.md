@@ -2,7 +2,7 @@
 Now our paper is ncluded in PRCV2020! The paper is available in https://link.springer.com/chapter/10.1007/978-3-030-60639-8_25.
 # SLPNet_pytorch
 SLPNet: Towards End-to-End Car License Plates Detection and Recognition Using Lightweight CNN<br>
-![picture1](https://github.com/JackEasson/SLPNet_pytorch/tree/master/example_pictures/structure.jpg)
+![SLPNet structure](https://github.com/JackEasson/SLPNet_pytorch/tree/master/example_pictures/structure.jpg)
 <img src="https://github.com/JackEasson/SLPNet_pytorch/tree/master/example_pictures/structure.jpg" width = "200" height = "300" alt="SLPNet structure" align=center/><br>
 
 # Update
