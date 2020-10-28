@@ -34,8 +34,8 @@ PyQt5<br>
 
 ## Results
 We show some recognition results based on images from CCPD and shot personally.<br>
-![picture2](./example_pictures/example3.PNG)
-![picture3](./example_pictures/example4.PNG)
+<img src="./example_pictures/example3.PNG" width="200"  alt="example1"/>
+<img src="./example_pictures/example4.PNG" width="200"  alt="example2"/><br/>
 
 ## Notice
 We open our SLPNet in other platform now. It's a stand-alone program on Windows system and you can just run it in a PC without pytorch or opencv! Here is the URL: 百度网盘 链接：https://pan.baidu.com/s/13Cfb-LOhfa9ZrQnVBotQ9w    提取码：pp2n
