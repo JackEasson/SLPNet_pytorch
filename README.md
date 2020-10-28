@@ -34,7 +34,7 @@ PyQt5<br>
 
 ## Results
 We show some recognition results based on images from CCPD and shot personally.<br>
-![picture2](./example_pictures/example3.PNG)<br>
+![picture2](./example_pictures/example3.PNG)
 ![picture3](./example_pictures/example4.PNG)
 
 ## Notice
