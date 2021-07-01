@@ -28,7 +28,7 @@ More arguments can be adjust in the train_config.py, train.py and test_demo.py.
 
 ## Environment
 Pytorch >= 1.1.0<br>
-Opnecv<br>
+Opencv<br>
 numpy<br>
 PyQt5<br>
 
